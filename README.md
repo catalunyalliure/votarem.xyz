@@ -8,7 +8,7 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 
 ### Mirrors que funcionan
 
-* https://rajoy-mariano.github.io/on-votar/index.html
+* https://referendum1oct.github.io/on-votar/index.html
 * http://onvotar1oct.com/on-votar/
 
 ---
@@ -17,7 +17,7 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 
 1. Clonar el repositorio
 
-git clone https://github.com/rajoy-mariano/referendum_cat_mirror.git
+git clone https://github.com/referendum1oct/referendum_cat_mirror.git
 
 2. Instalar docker y docker-compose:
 
